@@ -3,7 +3,7 @@ layout: default
 title: WristBuddy Privacy Policy
 ---
 
-[Русский](index.md)
+[Русский](index.md) · [English](en.md) · [Español](es.md) · [Română](ro.md) · [中文](zh.md)
 
 # WristBuddy Privacy Policy
 

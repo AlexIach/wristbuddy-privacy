@@ -3,7 +3,7 @@ layout: default
 title: Политика конфиденциальности WristBuddy
 ---
 
-[English](en.md)
+[Русский](index.md) · [English](en.md) · [Español](es.md) · [Română](ro.md) · [中文](zh.md)
 
 # Политика конфиденциальности WristBuddy
 
