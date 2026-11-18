@@ -2,3 +2,8 @@ title: WristBuddy
 theme: jekyll-theme-minimal
 url: https://alexiach.github.io
 baseurl: /wristbuddy-privacy
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: false

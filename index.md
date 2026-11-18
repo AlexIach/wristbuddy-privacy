@@ -3,7 +3,7 @@ layout: default
 title: Политика конфиденциальности WristBuddy
 ---
 
-[English]({{ "/en.html" | relative_url }})
+[English](en.md)
 
 # Политика конфиденциальности WristBuddy
 
