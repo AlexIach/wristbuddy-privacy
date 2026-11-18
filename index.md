@@ -9,6 +9,7 @@ title: Политика конфиденциальности WristBuddy
 
 
 **Дата редакции:** 2026-11-18
+
 **Кто отвечает за данные:** Alexandru Iachimov, wristbuddyinfo@gmail.com
 
 ## Коротко

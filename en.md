@@ -8,6 +8,7 @@ title: WristBuddy Privacy Policy
 # WristBuddy Privacy Policy
 
 **Last updated:** 2026-11-18
+
 **Responsible for the data:** Alexandru Iachimov, wristbuddyinfo@gmail.com
 
 ## In short
