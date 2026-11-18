@@ -3,7 +3,7 @@ layout: default
 title: WristBuddy Privacy Policy
 ---
 
-[Русский](index.html)
+[Русский]({{ "/" | relative_url }})
 
 # WristBuddy Privacy Policy
 
